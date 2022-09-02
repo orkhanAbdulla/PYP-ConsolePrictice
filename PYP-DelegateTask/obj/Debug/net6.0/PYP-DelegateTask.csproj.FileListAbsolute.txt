@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\obj\Debug\net6.0\PYP-DelegateTask.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\obj\Debug\net6.0\PYP-DelegateTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\obj\Debug\net6.0\PYP-DelegateTask.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\obj\Debug\net6.0\PYP-DelegateTask.AssemblyInfo.cs
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\obj\Debug\net6.0\PYP-DelegateTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\bin\Debug\net6.0\PYP-DelegateTask.exe
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\bin\Debug\net6.0\PYP-DelegateTask.deps.json
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\bin\Debug\net6.0\PYP-DelegateTask.runtimeconfig.json
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\bin\Debug\net6.0\PYP-DelegateTask.dll
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\bin\Debug\net6.0\PYP-DelegateTask.pdb
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\obj\Debug\net6.0\PYP-DelegateTask.dll
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\obj\Debug\net6.0\refint\PYP-DelegateTask.dll
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\obj\Debug\net6.0\PYP-DelegateTask.pdb
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\obj\Debug\net6.0\PYP-DelegateTask.genruntimeconfig.cache
+C:\Users\hp\Desktop\PYP\PYP-DelegateTask\PYP-DelegateTask\obj\Debug\net6.0\ref\PYP-DelegateTask.dll
